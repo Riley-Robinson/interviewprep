@@ -1,0 +1,39 @@
+describing code in an interview
+-------------------------------
+
+Either:
+* Something you already wrote
+* something you have to write on the spot
+
+rules of interviewing
+Relax - harddest thing to do
+
+i pretend i already have a job 
+and the interviewer is a coeworker that is coming to me for help.
+
+puts you in a helping/teacher mindset.
+
+shows off how you can work in a perfessional setting
+
+Changes Things to be a bit more "cooperative"
+    Employers love teamwork
+
+Dont be afraid to explore the problem
+    think out loud
+
+the the problem to the interviewer
+-------------------------------------------------
+UPER
+
+
+
+understand:
+Explaine the problem to the interviewer
+    in your own worlds
+
+Plan:
+    If you already wrote the code:
+        Compare multiple soulutons that you came up with
+    Else:
+        Come up with multiple soulutons
+
